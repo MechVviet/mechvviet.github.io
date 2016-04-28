@@ -2,7 +2,12 @@ body{
 	background-color: #E2E2E2;
 }
 .container{
+	background-color: white;
 	padding-bottom: 10%;
 	margin-bottom: 20%;
 	border-radius: 15px;
+}
+#building{
+	border: 3px black solid;
+	border-radius: 10px;
 }
