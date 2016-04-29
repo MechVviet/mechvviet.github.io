@@ -36,11 +36,22 @@ button{
 }
 button:hover{
 	background-color: white;
+	color: blue;
 }
 button a{
 	color: white;
+	background-color: blue;
+	margin: 0;
+	border-radius: 10px;
+	padding-right: 2px;
+	padding-left: 2px;
 }
 button a:hover{
 	color: blue;
+	background-color: white;
 	text-decoration: none;
+	margin: 0;
+	border-radius: 10px;
+	padding-right: 2px;
+	padding-left: 2px;
 }
